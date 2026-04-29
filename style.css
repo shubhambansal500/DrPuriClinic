@@ -268,8 +268,8 @@ body {
   align-items: center;
   gap: 6px;
 }
-.pill-1 { top: -16px; left: -16px; }
-.pill-2 { bottom: 24px; right: -20px; }
+.pill-1 { top: -20px; right: 20px; left: auto; }
+.pill-2 { bottom: -18px; left: 24px; right: auto; }
 .pill-dot { width: 8px; height: 8px; border-radius: 50%; }
 .pill-dot.green { background: var(--green); }
 
